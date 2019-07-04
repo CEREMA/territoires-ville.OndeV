@@ -1,0 +1,36 @@
+[Version]
+Version=1.0.0.2
+
+[OndeV.exe <000C>]
+Dest=$(AppPath)
+Date=04/04/2005
+Time=10:32
+Version=1.0.0.2
+CABFilename=OndeV.CAB
+CABINFFile=OndeV.INF
+Uses1=msvbvm60.dll
+Uses2=oleaut32.dll
+Uses3=olepro32.dll
+Uses4=asycfilt.dll
+Uses5=stdole2.tlb
+Uses6=COMCAT.DLL
+Uses7=vb6fr.dll
+Uses8=OndeV.dll
+Uses9=COMDLG32.OCX
+Uses10=comctl32.ocx
+Uses11=Comct232.ocx
+Uses12=tabctl32.ocx
+Uses13=ss32x25.ocx
+Uses14=MSCHART.OCX
+
+[ss32x25.ocx <000C>]
+Dest=$(WinSysPath)
+Date=10/12/1998
+Time=20:00
+Version=2.5.0.55
+
+[MSCHART.OCX <000C>]
+Dest=$(WinSysPath)
+Date=27/02/1997
+Time=00:00
+Version=5.0.37.14

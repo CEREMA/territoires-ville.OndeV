@@ -1,0 +1,115 @@
+:Base talon.hlp>main
+1 Introduction
+2 Préambule=Pr.ambule
+1 Installation
+2 Installation du logiciel
+3 Installation du logiciel=Installationdulogiciel
+3 Gestion du jeton=Gestiondujeton
+3 Le programme de transfert
+4 Le programme de transfert=Leprogrammedetransfert
+4 Regénération de la licence sur la disquette de protection=Reg.n.rationdelalicencesurladisquettedeprotection
+4 Information sur la licence stockée sur la disquette de protection=Informationsurlalicencestock.esurladisquettedeprotection
+4 Information sur la licence stockée sur le répertoire de l'application=Informationsurlalicencestock.esurler.pertoiredel.application
+4 Transfert de la licence sur la disquette de protection=Transfertdelalicencesurladisquettedeprotection
+4 Transfert de la licence sur le répertoire de l'application=Transfertdelalicencesurler.pertoiredel.application
+3 Désinstallation 
+4 Désinstallation =D.sinstallation.bmcthelp0003.bmp.
+2 Options générales
+3 Options générales=Optionsg.n.rales
+2 Configuration de l'imprimante
+3 Configuration de l'imprimante=Configurationdel.imprimante
+2 Fichiers gérés par Talon
+3 Fichiers gérés par Talon=Fichiersg.r.sparTalon
+1 Principes de la coordination
+2 La coordination d'itinéraire
+3 La coordination d'itinéraire=Lacoordinationd.itin.raire
+3 La gestion du trafic au niveau du carrefour=Lagestiondutraficauniveauducarrefour
+3 La coordination entre carrefours=Lacoordinationentrecarrefours
+2 Les ondes vertes
+3 Les ondes vertes=Lesondesvertes
+3 Les conditions nécessaires au calibrage de l'onde verte=Lesconditionsn.cessairesaucalibragedel.ondeverte
+3 Principes de l'onde verte
+4 Principes de l'onde verte=Principesdel.ondeverte
+4 Onde verte à sens unique=Ondeverte.sensunique
+4 Onde verte à double sens=Ondeverte.doublesens
+4 Onde verte à sens privilégié=Ondeverte.sensprivil.gi.
+4 Onde verte pour les TC=OndevertepourlesTC
+3 Conditions optimales de mise en œuvre de l'onde verte
+4 Conditions optimales de mise en œuvre de l'onde verte=Conditionsoptimalesdemiseenouvredel.ondeverte
+3 Intérêts et limites d'une onde verte
+4 Intérêts et limites d'une onde verte=Int.r.tsetlimitesd.uneondeverte
+2 Utilisation de TALON
+3 Utilisation de TALON=UtilisationdeTALON
+3 Documents à réunir=Documents.r.unir
+3 Déroulement d'une étude
+4 Déroulement d'une étude=D.roulementd.une.tude
+4 Description du projet=Descriptionduprojet
+4 Critères d'optimisation et réglages manuels=Crit.resd.optimisationetr.glagesmanuels
+4 Evaluation de l'onde verte calculée=Evaluationdel.ondevertecalcul.e
+3 Critères d'optimisation
+4 Critères d'optimisation=Crit.resd.optimisation
+4 Cas général : ondes vertes à sens unique, double sens ou sens privilégié=Casg.n.ral..ondesvertes.sensunique.doublesensousensprivil.gi.
+4 Cas particulier : onde verte bus=Casparticulier..ondevertebus
+2 Les paramètres nécessaires au calcul
+3 Les paramètres nécessaires au calcul=Lesparam.tresn.cessairesaucalcul
+3 La description du carrefour=Ladescriptionducarrefour
+3 Le point de référence
+4 Le point de référence=Lepointder.f.rence
+4 Phasage d'un carrefour=Phasaged.uncarrefour
+4 Décalages de l'onde verte=D.calagesdel.ondeverte
+4 Position du point de référence par défaut=Positiondupointder.f.rencepard.faut
+4 Choix de la position du point de référence=Choixdelapositiondupointder.f.rence
+4 Exemples de codage du point de référence=Exemplesdecodagedupointder.f.rence
+3 Prise en compte de la demande
+4 Prise en compte de la demande=Priseencomptedelademande
+4 La demande=Lademande
+4 Réserve de capacité=R.servedecapacit.
+4 Largeurs variables de bandes passantes=Largeursvariablesdebandespassantes
+3 Gestions de carrefours communs à plusieurs coordinations
+4 Gestions de carrefours communs à plusieurs coordinations=Gestionsdecarrefourscommuns.plusieurscoordinations
+4 Décalages connus=D.calagesconnus
+4 Décalages inconnus=D.calagesinconnus
+3 Prise en compte des TC
+4 Prise en compte des TC=PriseencomptedesTC
+4 Description d'un parcours TC=Descriptiond.unparcoursTC
+4 Tableau de marche d'un VTC=Tableaudemarched.unVTC
+4 Visualisation de la progression des VTC.=VisualisationdelaprogressiondesVTC.
+4 Onde verte calibrée selon le tableau de marche des TC=Ondevertecalibr.eselonletableaudemarchedesTC
+4 Temps de parcours pour les VTC=TempsdeparcourspourlesVTC
+1 Manuel utilisateur
+2 Lancement de Talon=LancementdeTalon
+2 Le menu TALON=LemenuTALON
+2 Le site
+3 Le site=Lesite
+3 Ouvrir un site=Ouvrirunsite
+3 Nouveau site=Nouveausite
+3 La partie graphique=Lapartiegraphique
+3 L'onglet carrefours=L.ongletcarrefours
+3 L'onglet transports collectifs=L.onglettransportscollectifs
+3 L'onglet cadrage onde verte
+4 L'onglet cadrage onde verte=L.ongletcadrageondeverte
+4 Optimisation des vitesses=Optimisationdesvitesses
+3 L'onglet résultat décalages
+4 L'onglet résultat décalages=L.ongletr.sultatd.calages
+3 L'onglet dessin onde verte
+4 L'onglet dessin onde verte=L.ongletdessinondeverte
+4 Propriétés…=Propri.t.s.
+4 Visualiser en plein écran…=Visualiserenplein.cran.
+4 Tracer la progression des transports collectifs…=Tracerlaprogressiondestransportscollectifs.
+4 Rechercher bandes passantes suivant les vitesses…=Rechercherbandespassantessuivantlesvitesses.
+4 Options graphiques=Optionsgraphiques
+4 Annuler la dernière modification graphique=Annulerladerni.remodificationgraphique
+4 Dessiner Temps de parcours TC\=F (Instant départ TC)=DessinerTempsdeparcoursTC.F.Instantd.partTC.
+3 L'onglet fiche résultats
+4 L'onglet fiche résultats=L.ongletficher.sultats
+3 Enregistrer un site
+4 Enregistrer un site=Enregistrerunsite
+3 Enregistrer un site sous
+4 Enregistrer un site sous=Enregistrerunsitesous
+3 Enregistrer tout
+4 Enregistrer tout=Enregistrertout
+3 Imprimer un site
+4 Imprimer un site=Imprimerunsite
+1 Annexe
+2 Glossaire=Glossaire
+2 Bibliographie=Bibliographie

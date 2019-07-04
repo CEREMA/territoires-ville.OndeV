@@ -1,0 +1,94 @@
+[Root]
+Most Recent Package=Fichier  1.dep
+
+
+[Package|Fichier  1.dep|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=\\Bleuet\groupe\Sys-its\Logiciels\OndeV V1.0\src
+
+[Package|Fichier  1.dep|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Fichier  1.dep|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Fichier  1.dep|Files Found]
+
+[Package|Fichier  1.dep|Files Released]
+OndeV.dll=
+
+[Package|Fichier  1.dep|Missing Dependency Information]
+C:\WINDOWS\system32\MSCHART.OCX=
+C:\WINDOWS\system32\ss32x25.ocx=
+
+[Package|Fichier  1.dep|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\tabctl32.ocx=
+C:\WINDOWS\system32\comctl32.ocx=
+C:\WINDOWS\system32\COMDLG32.OCX=
+
+[Package|Fichier  1.dep|Files Added]
+
+[Package|Fichier  1.dep|Files Removed]
+
+[Package|Fichier  1.dep|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\vb6fr.dll=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGFR.DLL=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\CMCTLFR.DLL=Yes
+C:\WINDOWS\system32\Comct232.ocx=Yes
+C:\WINDOWS\system32\CMCT2FR.DLL=Yes
+C:\WINDOWS\system32\tabctl32.ocx=Yes
+C:\WINDOWS\system32\TABCTFR.DLL=Yes
+C:\WINDOWS\system32\ss32x25.ocx=Yes
+D:\LOG_OndeV\Sources\OndeV.exe=Yes
+
+[Package|Fichier  1.dep|Configure Registry Files]
+Applicable=
+
+[Package|Fichier  1.dep|Configure Remote Servers]
+Applicable=
+
+[Package|Fichier  1.dep|Install Locations]
+\\Bleuet\groupe\Sys-its\Logiciels\OndeV V1.0\src\OndeV.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vb6fr.dll=$(WinSysPath)
+\\Bleuet\groupe\Sys-its\Logiciels\OndeV V1.0\src\OndeV.dll=$(AppPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comct232.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMCT2FR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\tabctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\TABCTFR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ss32x25.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCHART.OCX=$(WinSysPath)
+D:\LOG_OndeV\Sources\OndeV.exe=$(AppPath)
+
+[Package|Fichier  1.dep|Configure Shared Files]
+Applicable=
+
+[Package|Fichier  1.dep|DepFile]
+DepCabFile=OndeV.CAB
+DepCabRun=OndeV.INF
+
+[Package|Fichier  1.dep|Package]
+PackageFolder=\\Bleuet\groupe\Sys-its\Logiciels\OndeV V1.0\src
+ProjectFolder=D:\LOG_OndeV\Sources
+ServerSideCab=
+File1=\\Bleuet\groupe\Sys-its\Logiciels\OndeV V1.0\src\OndeV.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
